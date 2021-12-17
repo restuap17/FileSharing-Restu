@@ -2,7 +2,8 @@
 
 Bot Telegram untuk menyimpan Postingan atau File yang Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
-
+File Sharing Khusus 18+ [Click Di Sini](
+https://github.com/restuap17/FileSharing-Pekob)
 ##
 
 **Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@InfoBotShr](https://www.telegram.dog/Sharin)**
